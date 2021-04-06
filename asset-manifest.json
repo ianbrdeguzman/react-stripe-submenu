@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-stripe-submenu/static/css/main.2bada5aa.chunk.css",
+    "main.js": "/react-stripe-submenu/static/js/main.e674dc7d.chunk.js",
+    "main.js.map": "/react-stripe-submenu/static/js/main.e674dc7d.chunk.js.map",
+    "runtime-main.js": "/react-stripe-submenu/static/js/runtime-main.8a959e98.js",
+    "runtime-main.js.map": "/react-stripe-submenu/static/js/runtime-main.8a959e98.js.map",
+    "static/js/2.4d4232d3.chunk.js": "/react-stripe-submenu/static/js/2.4d4232d3.chunk.js",
+    "static/js/2.4d4232d3.chunk.js.map": "/react-stripe-submenu/static/js/2.4d4232d3.chunk.js.map",
+    "index.html": "/react-stripe-submenu/index.html",
+    "static/css/main.2bada5aa.chunk.css.map": "/react-stripe-submenu/static/css/main.2bada5aa.chunk.css.map",
+    "static/js/2.4d4232d3.chunk.js.LICENSE.txt": "/react-stripe-submenu/static/js/2.4d4232d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a959e98.js",
+    "static/js/2.4d4232d3.chunk.js",
+    "static/css/main.2bada5aa.chunk.css",
+    "static/js/main.e674dc7d.chunk.js"
+  ]
+}
